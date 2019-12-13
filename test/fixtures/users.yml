@@ -16,3 +16,4 @@ user:
 admin:
   <<: *password
   email: admin@example.com
+  admin: true
