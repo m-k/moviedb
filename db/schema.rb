@@ -39,6 +39,16 @@ ActiveRecord::Schema.define(version: 2019_12_13_153124) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "users", force: :cascade do |t|
+    t.string "email", default: "", null: false
+    t.string "encrypted_password", default: "", null: false
+    t.datetime "remember_created_at"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.boolean "admin", default: false
+    t.index ["email"], name: "index_users_on_email", unique: true
+  end
+
   add_foreign_key "genres_movies", "genres", on_delete: :cascade
   add_foreign_key "genres_movies", "movies", on_delete: :cascade
 end

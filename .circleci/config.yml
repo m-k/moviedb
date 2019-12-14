@@ -70,6 +70,12 @@ jobs:
           name: Install Bundler Dependencies
           command: bin/bundle check --path vendor/bundle || bin/bundle install --deployment
 
+      - run:
+          name: Install Node Packages
+          command: bin/yarn
+
+      - run: bin/webpack
+
       - save_cache:
           name: Save Bundler Cache
           paths:
