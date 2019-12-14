@@ -1,5 +1,5 @@
 {
-  "name": "APP NAME",
+  "name": "jt-movie-db",
   "scripts": {
     "postdeploy": "bin/heroku-postdeploy"
   },
@@ -12,27 +12,6 @@
     },
     "DB_SEED_ON_DEPLOY": "true",
     "BUNDLE_WITHOUT": "development:test:production",
-    "MAILTRAP_ADDRESS": {
-      "required": true
-    },
-    "MAILTRAP_API_TOKEN": {
-      "required": true
-    },
-    "MAILTRAP_CATCH_MAIL": {
-      "required": true
-    },
-    "MAILTRAP_DOMAIN": {
-      "required": true
-    },
-    "MAILTRAP_PASSWORD": {
-      "required": true
-    },
-    "MAILTRAP_PORT": {
-      "required": true
-    },
-    "MAILTRAP_USER_NAME": {
-      "required": true
-    },
     "RACK_ENV": {
       "required": true
     },
@@ -47,17 +26,9 @@
     "REDIS_PROVIDER": "REDISTOGO_URL",
     "SECRET_KEY_BASE": {
       "generator": "secret"
-    },
-    "ROLLBAR_ACCESS_TOKEN": {
-      "required": true
-    },
-    "ROLLBAR_ENDPOINT": {
-      "required": true
-    },
-    "ROLLBAR_ENV": "development",
+    }
   },
   "addons": [
-    "mailtrap:unpaid",
     "memcachier:dev",
     "papertrail:choklad",
     "heroku-postgresql:hobby-dev",

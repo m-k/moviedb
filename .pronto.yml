@@ -4,6 +4,7 @@ all:
     - .*
     - .**/*
     - bin/*
+    - 'app/models/concerns/slugged.rb'
     - db/schema.rb
     - db/migrate/**/*
     - config/**/*

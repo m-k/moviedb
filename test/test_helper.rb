@@ -1,6 +1,6 @@
-require 'test/coverage'
 ENV['RAILS_ENV'] ||= 'test'
 require_relative '../config/environment'
+require 'test/coverage'
 require 'rails/test_help'
 
 class ActiveSupport::TestCase

@@ -17,6 +17,7 @@ workflows:
                 - master
                 - production
                 - staging
+      - test
 
   auto_upgrade_tools:
     triggers:
@@ -33,7 +34,7 @@ jobs:
   test:
     docker:
       # specify the version you desire here
-      - image: circleci/ruby:2.6-node-browsers
+      - image: circleci/ruby:2.6.5-node-browsers
         environment:
           COVERAGE: true
           BUNDLE_GEMFILE: Gemfile
@@ -45,7 +46,7 @@ jobs:
           RACK_ENV: test
           PGHOST: 127.0.0.1
           PGUSER: ubuntu
-          DATABASE_URL: postgresql:ubuntu@127.0.0.1/db_test
+          DATABASE_URL: postgresql:ubuntu@localhost:5432/moviedb_test
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
@@ -53,7 +54,7 @@ jobs:
       - image: circleci/postgres:alpine-ram
         environment:
           POSTGRES_USER: ubuntu
-          POSTGRES_DB: db_test
+          POSTGRES_DB: moviedb_test
 
     steps:
       - checkout
@@ -75,6 +76,7 @@ jobs:
             - ./vendor/bundle
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
 
+      - run: bin/rails db:create
       - run: bin/rails db:schema:load
       - run: bin/rails test
 
@@ -85,7 +87,7 @@ jobs:
           path: ./coverage
   lint:
     docker:
-      - image: circleci/ruby:2.6-stretch-node
+      - image: circleci/ruby:2.6.5-stretch-node
         environment:
           DISABLE_SPRING: 1
           BUNDLE_GEMFILE: Gemfile.tools
@@ -122,7 +124,7 @@ jobs:
 
   upgrade_tools:
     docker:
-      - image: circleci/ruby:2.6-stretch-node
+      - image: circleci/ruby:2.6.5-stretch-node
         environment:
           DISABLE_SPRING: 1
           BUNDLE_GEMFILE: Gemfile.tools
