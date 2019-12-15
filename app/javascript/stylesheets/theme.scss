@@ -88,3 +88,17 @@ body {
 .moviedb-footer p:last-child {
   margin-bottom: 0;
 }
+
+/*
+ * Genres
+ */
+.moviedb-genres-filter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.moviedb-genres-filter-item {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
