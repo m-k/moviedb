@@ -5,6 +5,10 @@
 import '../stylesheets/application.scss';
 import 'bootstrap';
 import '@fortawesome/fontawesome-free/js/all';
+import 'bootstrap-star-rating/js/star-rating';
+import 'bootstrap-star-rating/themes/krajee-fas/theme';
+
+import './rating';
 
 require('@rails/ujs').start();
 require('@rails/activestorage').start();

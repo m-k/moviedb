@@ -3,6 +3,12 @@
 require 'test_helper'
 
 class MovieTest < ActiveSupport::TestCase
+  test 'persists' do
+    assert_difference -> { Movie.count } do
+      Movie.create(title: 'Robocop', plot: 'cyberpunk action film')
+    end
+  end
+
   test 'validates presence of title' do
     movie = Movie.new
     assert_not movie.valid?
@@ -13,12 +19,6 @@ class MovieTest < ActiveSupport::TestCase
     movie = Movie.new
     assert_not movie.valid?
     assert_not_empty movie.errors[:plot]
-  end
-
-  test 'saves valid record' do
-    movie = Movie.new(title: 'Robocop', plot: 'cyberpunk action film')
-    assert movie.valid?
-    assert_empty movie.errors
   end
 
   test 'sets rating to zero by default' do

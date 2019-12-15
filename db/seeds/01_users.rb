@@ -11,3 +11,10 @@ User.create!(
   password: 'password',
   password_confirmation: 'password'
 )
+(1..20).each do |index|
+  User.create!(
+    email: "user#{index}@example.com",
+    password: 'password',
+    password_confirmation: 'password'
+  )
+end

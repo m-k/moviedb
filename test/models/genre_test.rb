@@ -3,6 +3,12 @@
 require 'test_helper'
 
 class GenreTest < ActiveSupport::TestCase
+  test 'persists' do
+    assert_difference -> { Genre.count } do
+      Genre.create(name: 'Art')
+    end
+  end
+
   test 'validates presence of name' do
     genre = Genre.new
     assert_not genre.valid?
@@ -14,12 +20,6 @@ class GenreTest < ActiveSupport::TestCase
     genre = Genre.new(name: 'sci-fi')
     assert_not genre.valid?
     assert_includes genre.errors[:name], 'has already been taken'
-  end
-
-  test 'saves valid record' do
-    genre = Genre.new(name: 'Art')
-    assert genre.valid?
-    assert_empty genre.errors
   end
 
   test 'generates slug' do
