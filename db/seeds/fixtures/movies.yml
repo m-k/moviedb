@@ -1,9 +1,9 @@
 ---
 tt0111161:
   :title: The Shawshank Redemption
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
   :plot: Chronicles the experiences of a formerly successful banker as a prisoner
     in the gloomy jailhouse of Shawshank after being found guilty of a crime he did
     not commit. The film portrays the man's unique way of dealing with his new, torturous
@@ -13,9 +13,9 @@ tt0111161:
     - Drama
 tt0068646:
   :title: The Godfather
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: When the aging head of a famous crime family decides to transfer his position
     to one of his subalterns, a series of unfortunate events start happening to the
     family, and a war begins between all the well-known families leading to insolence,
@@ -26,9 +26,9 @@ tt0068646:
     - Drama
 tt0071562:
   :title: 'The Godfather: Part II'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: The continuing saga of the Corleone crime family tells the story of a young
     Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael
     Corleone in the 1950s as he attempts to expand the family business into Las Vegas,
@@ -38,9 +38,9 @@ tt0071562:
     - Drama
 tt0110912:
   :title: Pulp Fiction
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are
     two hit men who are out to retrieve a suitcase stolen from their employer, mob
     boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his
@@ -53,9 +53,9 @@ tt0110912:
     - Drama
 tt0060196:
   :title: The Good, the Bad and the Ugly
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg"
   :plot: Blondie (The Good) is a professional gunslinger who is out trying to earn
     a few dollars. Angel Eyes (The Bad) is a hit man who always commits to a task
     and sees it through, as long as he is paid to do so. And Tuco (The Ugly) is a
@@ -74,9 +74,9 @@ tt0060196:
     - Western
 tt0468569:
   :title: The Dark Knight
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
   :plot: Set within a year after the events of Batman Begins, Batman, Lieutenant James
     Gordon, and new district attorney Harvey Dent successfully begin to round up the
     criminals that plague Gotham City until a mysterious and sadistic criminal mastermind
@@ -91,9 +91,9 @@ tt0468569:
     - Thriller
 tt0050083:
   :title: 12 Angry Men
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
   :plot: The defense and the prosecution have rested and the jury is filing into the
     jury room to decide if a young man is guilty or innocent of murdering his father.
     What begins as an open-and-shut case of murder soon becomes a detective story
@@ -105,9 +105,9 @@ tt0050083:
     - Drama
 tt0108052:
   :title: Schindler's List
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Oskar Schindler is a vainglorious and greedy German businessman who becomes
     an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled
     to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler
@@ -119,9 +119,9 @@ tt0108052:
     - History
 tt0167260:
   :title: 'The Lord of the Rings: The Return of the King'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: 'The final confrontation between the forces of good and evil fighting for
     control of the future of Middle-earth. Hobbits: Frodo and Sam reach Mordor in
     their quest to destroy the "one ring", while Aragorn leads the forces of good
@@ -132,9 +132,9 @@ tt0167260:
     - Fantasy
 tt0137523:
   :title: Fight Club
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: A nameless first person narrator (Edward Norton) attends support groups in
     attempt to subdue his emotional state and relieve his insomniac state. When he
     meets Marla (Helena Bonham Carter), another fake attendee of support groups, his
@@ -148,9 +148,9 @@ tt0137523:
     - Drama
 tt0080684:
   :title: 'Star Wars: Episode V - The Empire Strikes Back'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the
     Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia
     escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only
@@ -163,9 +163,9 @@ tt0080684:
     - Sci-Fi
 tt0120737:
   :title: 'The Lord of the Rings: The Fellowship of the Ring'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
   :plot: An ancient Ring thought lost for centuries has been found, and through a
     strange twist in fate has been given to a small Hobbit named Frodo. When Gandalf
     discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must
@@ -181,10 +181,10 @@ tt0120737:
     - Fantasy
 tt0073486:
   :title: One Flew Over the Cuckoo's Nest
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL
-    2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL\
+    2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: McMurphy has a criminal past and has once again gotten himself into trouble
     and is sentenced by the court. To escape labor duties in prison, McMurphy pleads
     insanity and is sent to a ward for the mentally unstable. Once here, McMurphy
@@ -196,9 +196,9 @@ tt0073486:
     - Drama
 tt1375666:
   :title: Inception
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
   :plot: 'Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction,
     stealing valuable secrets from deep within the subconscious during the dream state,
     when the mind is at its most vulnerable. Cobb''s rare ability has made him a coveted
@@ -218,9 +218,9 @@ tt1375666:
     - Thriller
 tt0099685:
   :title: Goodfellas
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Henry Hill might be a small time gangster, who may have taken part in a robbery
     with Jimmy Conway and Tommy De Vito, two other gangsters who might have set their
     sights a bit higher. His two partners could kill off everyone else involved in
@@ -234,9 +234,9 @@ tt0099685:
     - Drama
 tt0076759:
   :title: 'Star Wars: Episode IV - A New Hope'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia
     hostage in their efforts to quell the rebellion against the Galactic Empire. Luke
     Skywalker and Han Solo, captain of the Millennium Falcon, work together with the
@@ -249,9 +249,9 @@ tt0076759:
     - Sci-Fi
 tt0047478:
   :title: Seven Samurai
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BODdlYjU1Y2MtMWUxMy00YjJjLTgyMWItNzgzZmZkNTYxNWFkXkEyXkFqcGdeQXVyMTAwMjU1MzA2._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BODdlYjU1Y2MtMWUxMy00YjJjLTgyMWItNzgzZmZkNTYxNWFkXkEyXkFqcGdeQXVyMTAwMjU1MzA2._V1_SX300.jpg"
   :plot: A veteran samurai, who has fallen on hard times, answers a village's request
     for protection from bandits. He gathers 6 other samurai to help him, and they
     teach the townspeople how to defend themselves, and they supply the samurai with
@@ -263,9 +263,9 @@ tt0047478:
     - Drama
 tt0109830:
   :title: Forrest Gump
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: Forrest Gump is a simple man with a low I.Q. but good intentions. He is running
     through childhood with his best and only friend Jenny. His 'mama' teaches him
     the ways of life and leaves him to choose his destiny. Forrest joins the army
@@ -280,10 +280,10 @@ tt0109830:
     - Romance
 tt0133093:
   :title: The Matrix
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNk
-    YzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNk\
+    YzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: 'Thomas A. Anderson is a man living two lives. By day he is an average computer
     programmer and by night a hacker known as Neo. Neo has always questioned his reality,
     but the truth is far beyond his imagination. Neo finds himself targeted by the
@@ -299,9 +299,9 @@ tt0133093:
     - Sci-Fi
 tt0167261:
   :title: 'The Lord of the Rings: The Two Towers'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: While Frodo and Sam, now accompanied by a new guide, continue their hopeless
     journey towards the land of shadow to destroy the One Ring, each member of the
     broken fellowship plays their part in the battle against the evil wizard Saruman
@@ -312,9 +312,9 @@ tt0167261:
     - Fantasy
 tt0317248:
   :title: City of God
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: 'Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks.
     Younger kids watch and learn well...too well. 1970s: Li''l Zé has prospered very
     well and owns the city. He causes violence and fear as he wipes out rival gangs
@@ -328,9 +328,9 @@ tt0317248:
     - Drama
 tt0114369:
   :title: Se7en
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: A film about two homicide detectives' (Morgan Freeman and (Brad Pitt desperate
     hunt for a serial killer who justifies his crimes as absolution for the world's
     ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains
@@ -348,9 +348,9 @@ tt0114369:
     - Thriller
 tt0102926:
   :title: The Silence of the Lambs
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: FBI trainee Clarice Starling works hard to advance her career, including
     trying to hide or put behind her West Virginia roots, of which if some knew would
     automatically classify her as being backward or white trash. After graduation,
@@ -382,9 +382,9 @@ tt0102926:
     - Thriller
 tt0064116:
   :title: Once Upon a Time in the West
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Story of a young woman, Mrs. McBain, who moves from New Orleans to frontier
     Utah, on the very edge of the American West. She arrives to find her new husband
     and family slaughtered, but by whom? The prime suspect, coffee-lover Cheyenne,
@@ -395,9 +395,9 @@ tt0064116:
     - Western
 tt0034583:
   :title: Casablanca
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
   :plot: The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub
     in Casablanca, Morocco during the early stages of WWII. Despite the pressure he
     constantly receives from the local authorities, Rick's cafe has become a kind
@@ -411,9 +411,9 @@ tt0034583:
     - War
 tt0114814:
   :title: The Usual Suspects
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: 'Following a truck hijack in New York, five conmen are arrested and brought
     together for questioning. As none of them are guilty, they plan a revenge operation
     against the police. The operation goes well, but then the influence of a legendary
@@ -427,9 +427,9 @@ tt0114814:
     - Thriller
 tt0082971:
   :title: Raiders of the Lost Ark
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg"
   :plot: The year is 1936. An archeology professor named Indiana Jones is venturing
     in the jungles of South America searching for a golden statue. Unfortunately,
     he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum
@@ -442,9 +442,9 @@ tt0082971:
     - Adventure
 tt0047396:
   :title: Rear Window
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: Professional photographer L.B. "Jeff" Jeffries breaks his leg while getting
     an action shot at an auto race. Confined to his New York apartment, he spends
     his time looking out of the rear window observing the neighbors. He begins to
@@ -456,9 +456,9 @@ tt0047396:
     - Thriller
 tt0038650:
   :title: It's a Wonderful Life
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg"
   :plot: George Bailey has spent his entire life giving of himself to the people of
     Bedford Falls. He has always longed to travel but never had the opportunity in
     order to prevent rich skinflint Mr. Potter from taking over the entire town. All
@@ -482,9 +482,9 @@ tt0038650:
     - Fantasy
 tt0054215:
   :title: Psycho
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Phoenix officeworker Marion Crane is fed up with the way life has treated
     her. She has to meet her lover Sam in lunch breaks and they cannot get married
     because Sam has to give most of his money away in alimony. One Friday Marion is
@@ -499,9 +499,9 @@ tt0054215:
     - Thriller
 tt0110413:
   :title: 'Léon: The Professional'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
   :plot: After her father, mother, older sister and little brother are killed by her
     father's employers, the 12-year-old daughter of an abject drug dealer is forced
     to take refuge in the apartment of a professional hitman who at her request teaches
@@ -514,9 +514,9 @@ tt0110413:
     - Thriller
 tt0043014:
   :title: Sunset Blvd.
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg"
   :plot: In Hollywood of the 50's, the obscure screenplay writer Joe Gillis is not
     able to sell his work to the studios, is full of debts and is thinking in returning
     to his hometown to work in an office. While trying to escape from his creditors,
@@ -534,9 +534,9 @@ tt0043014:
     - Film-Noir
 tt0120586:
   :title: American History X
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
   :plot: Derek Vineyard is paroled after serving 3 years in prison for brutally killing
     two black men who tried to break into/steal his truck. Through his brother, Danny
     Vineyard's narration, we learn that before going to prison, Derek was a skinhead
@@ -548,9 +548,9 @@ tt0120586:
     - Drama
 tt0078788:
   :title: Apocalypse Now
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: 'It is the height of the war in Vietnam, and U.S. Army Captain Willard is
     sent by Colonel Lucas and a General to carry out a mission that, officially, ''does
     not exist - nor will it ever exist''. The mission: To seek out a mysterious Green
@@ -571,9 +571,9 @@ tt0078788:
     - War
 tt0103064:
   :title: 'Terminator 2: Judgment Day'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: 'Over 10 years have passed since the first cyborg called The Terminator tried
     to kill Sarah Connor and her unborn son, John Connor. John Connor, the future
     leader of the human resistance, is now a healthy young boy. However another Terminator
@@ -587,9 +587,9 @@ tt0103064:
     - Sci-Fi
 tt0120815:
   :title: Saving Private Ryan
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
   :plot: Opening with the Allied invasion of Normandy on 6 June 1944, members of the
     2nd Ranger Battalion under Cpt. Miller fight ashore to secure a beachhead. Amidst
     the fighting, two brothers are killed in action. Earlier in New Guinea, a third
@@ -603,9 +603,9 @@ tt0120815:
     - War
 tt0209144:
   :title: Memento
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Memento chronicles two separate stories of Leonard, an ex-insurance investigator
     who can no longer build new memories, as he attempts to find the murderer of his
     wife, which is the last thing he remembers. One story line moves forward in time
@@ -615,9 +615,9 @@ tt0209144:
     - Thriller
 tt0021749:
   :title: City Lights
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: A tramp falls in love with a beautiful blind girl. Her family is in financial
     trouble. The tramp's on-and-off friendship with a wealthy man allows him to be
     the girl's benefactor and suitor.
@@ -627,9 +627,9 @@ tt0021749:
     - Romance
 tt0057012:
   :title: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Paranoid Brigadier General Jack D. Ripper of Burpelson Air Force Base, believing
     that fluoridation of the American water supply is a Soviet plot to poison the
     U.S. populace, is able to deploy through a back door mechanism a nuclear attack
@@ -655,9 +655,9 @@ tt0057012:
     - Comedy
 tt0078748:
   :title: Alien
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: A commercial crew aboard the deep space towing vessel, Nostromo is on its
     way home when they pick up an SOS warning from a distant moon. What they don't
     know is that the SOS warning is not like any other ordinary warning call. Picking
@@ -668,10 +668,10 @@ tt0078748:
     - Sci-Fi
 tt0027977:
   :title: Modern Times
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTR
-    lL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTR\
+    lL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Chaplins last 'silent' film, filled with sound effects, was made when everyone
     else was making talkies. Charlie turns against modern society, the machine age,
     (The use of sound in films ?) and progress. Firstly we see him frantically trying
@@ -688,10 +688,10 @@ tt0027977:
     - Romance
 tt0245429:
   :title: Spirited Away
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNjFlNTliMWQtZGJlOC00YTIxLWEzODEtZjM4NzgzZ
-    DhkMmFjL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNjFlNTliMWQtZGJlOC00YTIxLWEzODEtZjM4NzgzZ\
+    DhkMmFjL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
   :plot: Chihiro and her parents are moving to a small Japanese town in the countryside,
     much to Chihiro's dismay. On the way to their new home, Chihiro's father makes
     a wrong turn and drives down a lonely one-lane road which dead-ends in front of
@@ -715,9 +715,9 @@ tt0245429:
     - Mystery
 tt0053125:
   :title: North by Northwest
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
   :plot: Madison Avenue advertising man Roger Thornhill finds himself thrust into
     the world of spies when he is mistaken for a man by the name of George Kaplan.
     Foreign spy Philip Vandamm and his henchman Leonard try to eliminate him but when
@@ -733,9 +733,9 @@ tt0053125:
     - Thriller
 tt0088763:
   :title: Back to the Future
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: Marty McFly, a typical American teenager of the Eighties, is accidentally
     sent back to 1955 in a plutonium-powered DeLorean "time machine" invented by a
     slightly mad scientist. During his often hysterical, always amazing trip back
@@ -747,9 +747,9 @@ tt0088763:
     - Sci-Fi
 tt0118799:
   :title: Life Is Beautiful
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: In 1930s Italy, a carefree Jewish book keeper named Guido starts a fairy
     tale life by courting and marrying a lovely woman from a nearby city. Guido and
     his wife have a son and live happily together until the occupation of Italy by
@@ -763,9 +763,9 @@ tt0118799:
     - War
 tt0081505:
   :title: The Shining
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: Signing a contract, Jack Torrance, a normal writer and former teacher agrees
     to take care of a hotel which has a long, violent past that puts everyone in the
     hotel in a nervous situation. While Jack slowly gets more violent and angry of
@@ -776,9 +776,9 @@ tt0081505:
     - Horror
 tt0253474:
   :title: The Pianist
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: 'In this adaptation of the autobiography "The Pianist: The Extraordinary
     True Story of One Man''s Survival in Warsaw, 1939-1945," Wladyslaw Szpilman, a
     Polish Jewish radio station pianist, sees Warsaw change gradually as World War
@@ -793,9 +793,9 @@ tt0253474:
     - War
 tt0033467:
   :title: Citizen Kane
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: 'A group of reporters are trying to decipher the last word ever spoken by
     Charles Foster Kane, the millionaire newspaper tycoon: "Rosebud." The film begins
     with a news reel detailing Kane''s life for the masses, and then from there, we
@@ -807,9 +807,9 @@ tt0033467:
     - Mystery
 tt0407887:
   :title: The Departed
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg"
   :plot: In South Boston, the state police force is waging war on Irish-American organized
     crime. Young undercover cop Billy Costigan is assigned to infiltrate the mob syndicate
     run by gangland chief Frank Costello. While Billy quickly gains Costello's confidence,
@@ -828,9 +828,9 @@ tt0407887:
     - Thriller
 tt0022100:
   :title: M
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg"
   :plot: In Germany, Hans Beckert is an unknown killer of girls. He whistles Edvard
     Grieg's 'In The Hall of the Mountain King', from the 'Peer Gynt' Suite I Op. 46
     while attracting the little girls for death. The police force pressed by the Minister
@@ -844,9 +844,9 @@ tt0022100:
     - Thriller
 tt0050825:
   :title: Paths of Glory
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg"
   :plot: The futility and irony of the war in the trenches in WWI is shown as a unit
     commander in the French army must deal with the mutiny of his men and a glory-seeking
     general after part of his force falls back under fire in an impossible attack.
@@ -855,10 +855,10 @@ tt0050825:
     - War
 tt0052357:
   :title: Vertigo
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFl
-    NjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFl\
+    NjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
   :plot: John "Scottie" Ferguson is a retired San Francisco police detective who suffers
     from acrophobia and Madeleine is the lady who leads him to high places. A wealthy
     shipbuilder who is an acquaintance from college days approaches Scottie and asks
@@ -871,9 +871,9 @@ tt0052357:
     - Thriller
 tt1853728:
   :title: Django Unchained
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg"
   :plot: A German dentist buys the freedom of a slave and trains him with the intent
     to make him his deputy bounty hunter. Instead, he is led to the site of the slave's
     wife who belongs to a ruthless plantation owner.
@@ -882,9 +882,9 @@ tt1853728:
     - Western
 tt0036775:
   :title: Double Indemnity
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg"
   :plot: In 1938, Walter Neff, an experienced salesman of the Pacific All Risk Insurance
     Co., meets the seductive wife of one of his clients, Phyllis Dietrichson, and
     they have an affair. Phyllis proposes to kill her husband to receive the proceeds
@@ -901,9 +901,9 @@ tt0036775:
     - Thriller
 tt1345836:
   :title: The Dark Knight Rises
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
   :plot: Despite his tarnished reputation after the events of The Dark Knight, in
     which he took the rap for Dent's crimes, Batman feels compelled to intervene to
     assist the city and its police force which is struggling to cope with Bane's plans
@@ -913,9 +913,9 @@ tt1345836:
     - Thriller
 tt0090605:
   :title: Aliens
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Fifty seven years after Ellen Ripley survived her disastrous ordeal, her
     escape vessel is recovered after drifting across the galaxy as she slept in cryogenic
     stasis. Back on Earth, nobody believed her story about the "Aliens" on the moon
@@ -932,9 +932,9 @@ tt0090605:
     - Thriller
 tt0075314:
   :title: Taxi Driver
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Travis Bickle is an ex-Marine and Vietnam War veteran living in New York
     City. As he suffers from insomnia, he spends his time working as a taxi driver
     at night, watching porn movies at seedy cinemas during the day, or thinking about
@@ -951,9 +951,9 @@ tt0075314:
     - Drama
 tt0169547:
   :title: American Beauty
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
   :plot: 'After his death sometime in his forty-third year, suburbanite Lester Burnham
     tells of the last few weeks of his life, during which he had no idea of his imminent
     passing. He is a husband to real estate agent Carolyn Burnham and father to high
@@ -986,9 +986,9 @@ tt0169547:
     - Drama
 tt0120689:
   :title: The Green Mile
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg"
   :plot: Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with
     their job when they discover one of their prisoners, a convicted murderer, has
     a special gift.
@@ -999,9 +999,9 @@ tt0120689:
     - Mystery
 tt0172495:
   :title: Gladiator
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Maximus is a powerful Roman general, loved by the people and the aging Emperor,
     Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir
     over his own son, Commodus, and a power struggle leaves Maximus and his family
@@ -1015,9 +1015,9 @@ tt0172495:
     - Drama
 tt1675434:
   :title: The Intouchables
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg"
   :plot: In Paris, the aristocratic and intellectual Philippe is a quadriplegic millionaire
     who is interviewing candidates for the position of his carer, with his red-haired
     secretary Magalie. Out of the blue, the rude African Driss cuts the line of candidates
@@ -1033,9 +1033,9 @@ tt1675434:
     - Drama
 tt0910970:
   :title: WALL·E
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg"
   :plot: In a distant, but not so unrealistic, future where mankind has abandoned
     earth because it has become covered with trash from products sold by the powerful
     multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has
@@ -1065,9 +1065,9 @@ tt0910970:
     - Sci-Fi
 tt0405094:
   :title: The Lives of Others
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg"
   :plot: Gerd Wiesler is an officer with the Stasi, the East German secret police.
     The film begins in 1984 when Wiesler attends a play written by Georg Dreyman,
     who is considered by many to be the ultimate example of the loyal citizen. Wiesler
@@ -1084,9 +1084,9 @@ tt0405094:
     - Thriller
 tt0435761:
   :title: Toy Story 3
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg"
   :plot: Woody, Buzz and the whole gang are back. As their owner Andy prepares to
     depart for college, his loyal toys find themselves in daycare where untamed tots
     with their sticky little fingers do not play nice. So, it's all for one and one
@@ -1101,9 +1101,9 @@ tt0435761:
     - Fantasy
 tt0032553:
   :title: The Great Dictator
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Twenty years after the end of WWI in which the nation of Tomainia was on
     the losing side, Adenoid Hynkel has risen to power as the ruthless dictator of
     the country. He believes in a pure Aryan state, and the decimation of the Jews.
@@ -1127,9 +1127,9 @@ tt0032553:
     - War
 tt0482571:
   :title: The Prestige
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg"
   :plot: In the end of the Nineteenth Century, in London, Robert Angier, his beloved
     wife Julia McCullough and Alfred Borden are friends and assistants of a magician.
     When Julia accidentally dies during a performance, Robert blames Alfred for her
@@ -1144,9 +1144,9 @@ tt0482571:
     - Thriller
 tt0066921:
   :title: A Clockwork Orange
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg"
   :plot: Protagonist Alex DeLarge is an "ultraviolent" youth in futuristic Britain.
     As with all luck, his eventually runs out and he's arrested and convicted of murder
     and rape. While in prison, Alex learns of an experimental program in which convicts
@@ -1160,9 +1160,9 @@ tt0066921:
     - Sci-Fi
 tt0056172:
   :title: Lawrence of Arabia
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
   :plot: Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E.
     Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between
     the Arabs and the British in their fight against the Turks. With the aid of native
@@ -1177,9 +1177,9 @@ tt0056172:
     - War
 tt0211915:
   :title: Amélie
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
   :plot: Amélie is a story about a girl named Amélie whose childhood was suppressed
     by her Father's mistaken concerns of a heart defect. With these concerns Amélie
     gets hardly any real life contact with other people. This leads Amélie to resort
@@ -1200,9 +1200,9 @@ tt0211915:
     - Romance
 tt0056592:
   :title: To Kill a Mockingbird
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: Small-town Alabama, 1932. Atticus Finch (played by Gregory Peck) is a lawyer
     and a widower. He has two young children, Jem and Scout. Atticus Finch is currently
     defending Tom Robinson, a black man accused of raping a white woman. Meanwhile,
@@ -1213,9 +1213,9 @@ tt0056592:
     - Drama
 tt0105236:
   :title: Reservoir Dogs
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   :plot: Six criminals, who are strangers to each other, are hired by a crime boss,
     Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given
     false names with the intention that they won't get too close and will concentrate
@@ -1231,9 +1231,9 @@ tt0105236:
     - Thriller
 tt0082096:
   :title: Das Boot
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
   :plot: It is 1942 and the German submarine fleet is heavily engaged in the so-called
     "Battle of the Atlantic" to harass and destroy British shipping. With better escorts
     of the destroyer class, however, German U-boats have begun to take heavy losses.
@@ -1248,9 +1248,9 @@ tt0082096:
     - War
 tt0110357:
   :title: The Lion King
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg"
   :plot: 'A young lion Prince is cast out of his pride by his cruel uncle, who claims
     he killed his father. While the uncle rules with an iron paw, the prince grows
     up beyond the Savannah, living by a philosophy: No worries for the rest of your
@@ -1264,9 +1264,9 @@ tt0110357:
     - Musical
 tt0095765:
   :title: Cinema Paradiso
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg"
   :plot: A boy who grew up in a native Sicilian Village returns home as a famous director
     after receiving news about the death of an old friend. Told in a flashback, Salvatore
     reminiscences about his childhood and his relationship with Alfredo, a projectionist
@@ -1281,9 +1281,9 @@ tt0095765:
     - Drama
 tt0086190:
   :title: 'Star Wars: Episode VI - Return of the Jedi'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
   :plot: Luke Skywalker battles horrible Jabba the Hut and cruel Darth Vader to save
     his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo
     and Princess Leia reaffirm their love and team with Chewbacca, Lando Calrissian,
@@ -1296,9 +1296,9 @@ tt0086190:
     - Sci-Fi
 tt0040897:
   :title: The Treasure of the Sierra Madre
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg"
   :plot: Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico
     in 1925, meet up with a grizzled prospector named Howard and decide to join with
     him in search of gold in the wilds of central Mexico. Through enormous difficulties,
@@ -1310,9 +1310,9 @@ tt0040897:
     - Western
 tt0041959:
   :title: The Third Man
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: An out of work pulp fiction novelist, Holly Martins, arrives in a post war
     Vienna divided into sectors by the victorious allies, and where a shortage of
     supplies has led to a flourishing black market. He arrives at the invitation of
@@ -1326,9 +1326,9 @@ tt0041959:
     - Thriller
 tt0087843:
   :title: Once Upon a Time in America
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Epic tale of a group of Jewish gangsters in New York, from childhood, through
     their glory years during prohibition, and their meeting again 35 years later.
   :genres:
@@ -1336,9 +1336,9 @@ tt0087843:
     - Drama
 tt0180093:
   :title: Requiem for a Dream
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: Sara Goldfarb (Ellen Burstyn) is a retired widow, living in a small apartment.
     She spends most of her time watching TV, especially a particular self-help show.
     She has delusions of rising above her current dull existence by being a guest
@@ -1353,9 +1353,9 @@ tt0180093:
     - Drama
 tt0338013:
   :title: Eternal Sunshine of the Spotless Mind
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg"
   :plot: A man, Joel Barish, heartbroken that his girlfriend Clementine underwent
     a procedure to erase him from her memory, decides to do the same. However, as
     he watches his memories of her fade away, he realizes that he still loves her,
@@ -1366,9 +1366,9 @@ tt0338013:
     - Sci-Fi
 tt0093058:
   :title: Full Metal Jacket
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: A two-segment look at the effect of the military mindset and war itself on
     Vietnam era Marines. The first half follows a group of recruits in boot camp under
     the command of the punishing Gunnery Sergeant Hartman. The second half shows one
@@ -1379,9 +1379,9 @@ tt0093058:
     - War
 tt0364569:
   :title: Oldboy
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNjY0YWY2ODYtYTQyNS00MDQ5LWE5MDktMTI4MTA2NTI1OWI4XkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNjY0YWY2ODYtYTQyNS00MDQ5LWE5MDktMTI4MTA2NTI1OWI4XkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_SX300.jpg"
   :plot: An average man is kidnapped and imprisoned in a shabby cell for 15 years
     without explanation. He then is released, equipped with money, a cellphone and
     expensive clothes. As he strives to explain his imprisonment and get his revenge,
@@ -1395,9 +1395,9 @@ tt0364569:
     - Thriller
 tt0112573:
   :title: Braveheart
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: William Wallace is a Scottish rebel who leads an uprising against the cruel
     English ruler Edward the Longshanks, who wishes to inherit the crown of Scotland
     for himself. When he was a young boy, William Wallace's father and brother, along
@@ -1411,9 +1411,9 @@ tt0112573:
     - War
 tt0119488:
   :title: L.A. Confidential
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: '1950''s Los Angeles is the seedy backdrop for this intricate noir-ish tale
     of police corruption and Hollywood sleaze. Three very different cops are all after
     the truth, each in their own style: Ed Exley, the golden boy of the police force,
@@ -1429,9 +1429,9 @@ tt0119488:
     - Thriller
 tt0040522:
   :title: Bicycle Thieves
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
   :plot: Ricci, an unemployed man in the depressed post-WWII economy of Italy, gets
     at last a good job - for which he needs a bike - hanging up posters. But soon
     his bicycle is stolen. He and his son walk the streets of Rome, looking for the
@@ -1442,9 +1442,9 @@ tt0040522:
     - Drama
 tt0071315:
   :title: Chinatown
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: JJ 'Jake' Gittes is a private detective who seems to specialize in matrimonial
     cases. He is hired by Evelyn Mulwray when she suspects her husband Hollis, builder
     of the city's water supply system, of having an affair. Gittes does what he does
@@ -1458,9 +1458,9 @@ tt0071315:
     - Thriller
 tt0045152:
   :title: Singin' in the Rain
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMWUyNjQ5MTAtNDJhYS00MWQ0LTk2ZTAtZmE4MWNlMjMwMzg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMWUyNjQ5MTAtNDJhYS00MWQ0LTk2ZTAtZmE4MWNlMjMwMzg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
   :plot: '1927 Hollywood. Monumental Pictures'' biggest stars, glamorous on-screen
     couple Lina Lamont and Don Lockwood, are also an off-screen couple if the trade
     papers and gossip columns are to be believed. Both perpetuate the public perception
@@ -1490,9 +1490,9 @@ tt0045152:
     - Romance
 tt0119698:
   :title: Princess Mononoke
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTVlNWM4NTAtNDQxYi00YWU5LWIwM2MtZmVjYWFmODZiODE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTVlNWM4NTAtNDQxYi00YWU5LWIwM2MtZmVjYWFmODZiODE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: While protecting his village from rampaging boar-god/demon, a confident young
     warrior, Ashitaka, is stricken by a deadly curse. To save his life, he must journey
     to the forests of the west. Once there, he's embroiled in a fierce campaign that
@@ -1507,9 +1507,9 @@ tt0119698:
     - Fantasy
 tt0071853:
   :title: Monty Python and the Holy Grail
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: 'History is turned on its comic head when, in 10th century England, King
     Arthur travels the countryside to find knights who will join him at the Round
     Table in Camelot. Gathering up the men is a tale in itself but after a bit of
@@ -1524,9 +1524,9 @@ tt0071853:
     - Fantasy
 tt0017136:
   :title: Metropolis
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
   :plot: Sometime in the future, the city of Metropolis is home to a Utopian society
     where its wealthy residents live a carefree life. One of those is Freder Fredersen.
     One day, he spots a beautiful woman with a group of children, she and the children
@@ -1549,9 +1549,9 @@ tt0017136:
     - Sci-Fi
 tt0042876:
   :title: Rashomon
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_SX300.jpg"
   :plot: 'A priest, a woodcutter and another man are taking refuge from a rainstorm
     in the shell of a former gatehouse called Rashômon. The priest and the woodcutter
     are recounting the story of a murdered samurai whose body the woodcutter discovered
@@ -1574,9 +1574,9 @@ tt0042876:
     - Mystery
 tt0053291:
   :title: Some Like It Hot
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
   :plot: When two Chicago musicians, Joe and Jerry, witness the the St. Valentine's
     Day massacre, they want to get out of town and get away from the gangster responsible,
     Spats Colombo. They're desperate to get a gig out of town but the only job they
@@ -1593,9 +1593,9 @@ tt0053291:
     - Romance
 tt0086879:
   :title: Amadeus
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
   :plot: Antonio Salieri believes that Wolfgang Amadeus Mozart's music is divine and
     miraculous. He wishes he was himself as good a musician as Mozart so that he can
     praise the Lord through composing. He began his career as a devout man who believes
@@ -1612,9 +1612,9 @@ tt0086879:
     - Music
 tt0062622:
   :title: '2001: A Space Odyssey'
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
   :plot: '"2001" is a story of evolution. Sometime in the distant past, someone or
     something nudged evolution by placing a monolith on Earth (presumably elsewhere
     throughout the universe as well). Evolution then enabled humankind to reach the
@@ -1627,9 +1627,9 @@ tt0062622:
     - Sci-Fi
 tt0042192:
   :title: All About Eve
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg"
   :plot: Eve (Anne Baxter) is waiting backstage to meet her idol, aging Broadway star
     Margo Channing (Bette Davis). It seems innocent enough as Eve explains that she
     has seen Margo in EVERY performance of her current play. Only playwright/critic
@@ -1644,9 +1644,9 @@ tt0042192:
     - Drama
 tt0051201:
   :title: Witness for the Prosecution
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZjEwMmE5MzYtYWExYy00ZjEzLTk4MjUtMmJmNzgxY2MxN2U1XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZjEwMmE5MzYtYWExYy00ZjEzLTk4MjUtMmJmNzgxY2MxN2U1XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_SX300.jpg"
   :plot: It's Britain, 1953. Upon his return to work following a heart attack, irrepressible
     barrister Sir Wilfrid Robarts, known as a barrister for the hopeless, takes on
     a murder case, much to the exasperation of his medical team, led by his overly
@@ -1679,9 +1679,9 @@ tt0051201:
     - Thriller
 tt0070735:
   :title: The Sting
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
   :plot: When a mutual friend is killed by a mob boss, two con men, one experienced
     and one young try to get even by pulling off the big con on the mob boss. The
     story unfolds with several twists and last minute alterations.
@@ -1691,9 +1691,9 @@ tt0070735:
     - Drama
 tt0053604:
   :title: The Apartment
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg"
   :plot: As of November 1, 1959, mild mannered C.C. Baxter has been working at Consolidated
     Life, an insurance company, for close to four years, and is one of close to thirty-two
     thousand employees located in their Manhattan head office. To distinguish himself
@@ -1727,9 +1727,9 @@ tt0053604:
     - Romance
 tt0095327:
   :title: Grave of the Fireflies
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
   :plot: The story of Seita and Satsuko, two young Japanese siblings, living in the
     declining days of World War II. When an American firebombing separates the two
     children from their parents, the two siblings must rely completely on one another
@@ -1740,9 +1740,9 @@ tt0095327:
     - War
 tt0097576:
   :title: Indiana Jones and the Last Crusade
-  :poster: >-
-    https://m.media-amazon.com/images/M/
-    MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg
+  :poster:
+    "https://m.media-amazon.com/images/M/\
+    MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
   :plot: An art collector appeals to Jones to embark on a search for the Holy Grail.
     He learns that another archaeologist has disappeared while searching for the precious
     goblet, and the missing man is his own father, Dr. Henry Jones. The artifact is

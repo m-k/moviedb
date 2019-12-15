@@ -12,7 +12,8 @@ class UserSignsUpTest < ApplicationIntegrationTestCase
 
     click_on 'Sign up'
 
-    assert_text 'Home Page'
+    assert_text 'Sign out'
+    assert_current_path root_path
 
     new_user = User.find_by(email: 'new_user@example.com')
     assert_not_nil new_user

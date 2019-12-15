@@ -24,6 +24,8 @@ gem 'devise'
 
 gem 'activeadmin'
 
+gem 'bootstrap4-kaminari-views'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

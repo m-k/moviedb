@@ -11,6 +11,7 @@ class UserSignsInTest < ApplicationIntegrationTestCase
 
     click_on 'Log in'
 
-    assert_text 'Home Page'
+    assert_text 'Sign out'
+    assert_current_path root_path
   end
 end

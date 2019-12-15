@@ -4,7 +4,7 @@ Rails.application.routes.draw do
     get '/users/sign_out' => 'devise/sessions#destroy'
   end
 
-  resources :movies, only: %i[index]
+  resources :movies, only: %i[show]
 
   ActiveAdmin.routes(self)
 

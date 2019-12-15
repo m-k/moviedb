@@ -1,12 +1,14 @@
 ---
 tt0111161:
   :title: The Shawshank Redemption
+  :slug: the-shawshank-redemption
   :poster: https://example.com/images/M/the_shawshank_redemption_SX300.jpg
   :plot: The Shawshank Redemption description
   genres:
     - drama
 tt0068646:
   :title: The Godfather
+  :slug: the-godfather
   :poster: https://example.com/images/M/the_godfather_SX300.jpg
   :plot: The Godfather description
   genres:
@@ -14,6 +16,7 @@ tt0068646:
     - drama
 tt0071562:
   :title: 'The Godfather: Part II'
+  :slug: 'the-godfather-part-ii'
   :poster: https://example.com/images/M/the_godfather_part_ii_SX300.jpg
   :plot: 'The Godfather: Part II Description'
   genres:
@@ -21,6 +24,7 @@ tt0071562:
     - drama
 tt0110912:
   :title: Pulp Fiction
+  :slug: pulp-fiction
   :poster: https://example.com/images/M/pulp_fiction_SX300.jpg
   :plot: Pulp fiction descriptions
   genres:
@@ -28,6 +32,7 @@ tt0110912:
     - drama
 tt0060196:
   :title: The Good, the Bad and the Ugly
+  :slug: the-good-the-bad-and-the-ugly
   :poster: https://example.com/images/M/the_good_the_bad_and_the_ugly_SX300.jpg
   :plot: The Good, the Bad and the Ugly description
   genres:

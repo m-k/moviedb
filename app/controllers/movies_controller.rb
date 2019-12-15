@@ -2,6 +2,10 @@
 
 class MoviesController < ApplicationController
   def index
-    render
+    @movies = Movie.page(params[:page])
+  end
+
+  def show
+    @movie = Movie.find_by(slug: params[:id])
   end
 end
