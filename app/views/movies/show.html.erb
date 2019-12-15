@@ -9,6 +9,11 @@
   <div class="col-md-8 moviedb-main">
     <div class="moviedb-post">
       <h2 class="moviedb-post-title"><%= @movie.title %></h2>
+      <p>
+        <% @movie.genres.each do |genre| %>
+          <%= link_to genre.name, genre_movies_path(genre.slug), class: 'badge badge-primary' %>
+        <% end %>
+      </p>
       <p class="moviedb-post-meta">
         <i class="fas fa-star text-warning"></i>
         <%= @movie.rating %>

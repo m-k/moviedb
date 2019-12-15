@@ -6,6 +6,10 @@ Rails.application.routes.draw do
 
   resources :movies, only: %i[show]
 
+  resources :genres, param: :slug, only: [] do
+    resources :movies, only: %i[index]
+  end
+
   ActiveAdmin.routes(self)
 
   root 'movies#index'

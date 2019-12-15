@@ -1,3 +1,14 @@
+<div class="row">
+  <div class="mb-4 moviedb-genres-filter">
+    <% @genres.each do |genre| %>
+      <% active_class = genre.slug == @current_genre&.slug ? ' active' : '' %>
+      <%= link_to genre.name,
+                  genre_movies_path(genre.slug),
+                  class: "mt-2 ml-2 btn btn-outline-primary moviedb-genres-filter-item#{active_class}" %>
+    <% end %>
+  </div>
+</div>
+
 <div class="row mb-4">
   <% @movies.each do |movie| %>
     <div class="col-lg-6">
@@ -12,7 +23,7 @@
           </div>
           <p class="card-text mb-auto">
             <% movie.genres.each do |genre| %>
-              <a class="badge badge-primary" href="#"><%= genre.name %></a>
+              <%= link_to genre.name, genre_movies_path(genre.slug), class: 'badge badge-primary' %>
             <% end %>
           </p>
           <a class="mt-3 mt-sm-0" href="#">Rate this!</a>
