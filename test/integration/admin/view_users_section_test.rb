@@ -2,7 +2,7 @@
 
 require 'application_integration_test_case'
 
-class AdminUsersViewTest < ApplicationIntegrationTestCase
+class ViewUsersSectionTest < ApplicationIntegrationTestCase
   test 'admin user successfully see users table' do
     sign_in(:admin)
 
